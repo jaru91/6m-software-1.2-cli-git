@@ -2,7 +2,7 @@
 
 A: Command Line Interaction
 
-**B: Command Line Interface**
+**B: Command Line Interface** <--answer
 
 C: Command Line Inter-terminal
 
@@ -12,7 +12,7 @@ D: Command Line Item
 
 ### Q2: GIT is a distributed version control.
 
-**A: True**
+**A: True**<--answer
 
 B: False
 
@@ -22,7 +22,7 @@ B: False
 
 A: True
 
-**B: False**
+**B: False**<--answer
 
 ---
 
@@ -30,7 +30,7 @@ A: True
 
 A: True
 
-**B: False**
+**B: False**<--answer
 
 ---
 
@@ -38,7 +38,7 @@ A: True
 
 A: True
 
-**B: False**
+**B: False**<--answer
 
 ---
 
@@ -48,7 +48,7 @@ A: git fetch
 
 B: git pull
 
-**C: git push**
+**C: git push**<--answer
 
 D: git merge
 
@@ -58,7 +58,7 @@ D: git merge
 
 A: git fetch
 
-**B: git pull**
+**B: git pull**<--answer
 
 C: git push
 
@@ -68,7 +68,7 @@ D: git merge
 
 ### Q8: Which GIT Command is used to download commits, files and refs from a remote repository into local repository?
 
-**A: git fetch**
+**A: git fetch**<--answer
 
 B: git pull
 
@@ -84,7 +84,7 @@ A: git branch branch_name
 
 B: git checkout branch_name
 
-**C: git checkout -b branch_name**
+**C: git checkout -b branch_name**<--answer
 
 D: git merge
 
@@ -98,4 +98,4 @@ B: git pull
 
 C: git push
 
-**D: git merge**
+**D: git merge**<--answer
